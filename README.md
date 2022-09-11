@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JosFern
+- 👋 Hi, I’m Jose
 - 👀 I’m interested in Mobile & Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Node js
 - 📫 How to reach me -> jfbaisac@gmail.com
 
 <!---
