@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jose
 - 👀 I’m interested in Mobile & Web Development
-- 🌱 I’m currently learning Next js
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me -> jfbaisac@gmail.com
 
 <!---
