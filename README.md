@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jose
 - 👀 I’m interested in Web Development & Cloud solutions
 - 🌱 I’m currently learning AWS
-- 📫 How to reach me -> jfbaisac@gmail.com
 
 <!---
 JosFern/JosFern is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
